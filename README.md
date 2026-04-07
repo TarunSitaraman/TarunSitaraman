@@ -147,8 +147,6 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSitaraman&theme=dark&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=00a8e8)](https://github.com/TarunSitaraman)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunSitaraman&theme=dark&background=1a1a2e&ring=00a8e8&fire=00a8e8&currStreakNum=00a8e8&date_format=M%20d%5B%2C%20Y%5D)
 
 </div>
