@@ -33,19 +33,12 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & DevOps
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
 
@@ -144,7 +137,7 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-sitaraman/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunsitaraman@outlook.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun.sitaraman@outlook.com)
 
 </div>
 
@@ -154,7 +147,9 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 
 <div align="center">
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=TarunSitaraman&theme=dark&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=00a8e8&icon_color=00a8e8&hide=prs,issues&custom_title=Contributions%20(2026))
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSitaraman&theme=dark&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=00a8e8)](https://github.com/TarunSitaraman)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunSitaraman&theme=dark&background=1a1a2e&ring=00a8e8&fire=00a8e8&currStreakNum=00a8e8&date_format=M%20d%5B%2C%20Y%5D)
 
 </div>
 
@@ -169,5 +164,7 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 <div align="center">
 
 ### ⭐ If you find my work interesting, feel free to star and follow!
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom" style="max-width: 100%;">
 
 </div>
