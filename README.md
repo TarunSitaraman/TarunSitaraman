@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="30px"> Hey, I'm Tarun Sitaraman
 
 <div align="center">
@@ -12,8 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **second-year B.Tech Computer Science(Cloud Computing) student** at **SRMIST**, graduating in 2028. I'm passionate about building practical solutions that solve real problems. My work spans full-stack development, systems architecture, and exploring the intersection of AI and finance through thoughtful code and rapid iteration.
-
+I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST**, graduating in 2028. I co-founded **SmartResQ**, an AI-powered emergency response platform, and lead a team of 16 interns at TGL Innovation Accelerator. I'm passionate about building practical solutions that solve real problems — whether that's autonomous emergency dispatch systems, market intelligence tools, or quantitative finance projects. My work spans full-stack development, systems architecture, and exploring the intersection of AI and finance through thoughtful code and rapid iteration.
 
 ---
 
@@ -32,12 +33,19 @@ I'm a **second-year B.Tech Computer Science(Cloud Computing) student** at **SRMI
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & DevOps
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
 
@@ -146,9 +154,7 @@ I'm a **second-year B.Tech Computer Science(Cloud Computing) student** at **SRMI
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunSitaraman&theme=dark&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=00a8e8&icon_color=00a8e8)](https://github.com/TarunSitaraman)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSitaraman&theme=dark&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=00a8e8)](https://github.com/TarunSitaraman)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunSitaraman&theme=dark&background=1a1a2e&ring=00a8e8&fire=00a8e8&currStreakNum=00a8e8)
 
 </div>
 
