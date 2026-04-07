@@ -154,7 +154,7 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunSitaraman&theme=dark&background=1a1a2e&ring=00a8e8&fire=00a8e8&currStreakNum=00a8e8)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=TarunSitaraman&theme=dark&show_icons=true&hide_border=true&bg_color=1a1a2e&title_color=00a8e8&icon_color=00a8e8&hide=prs,issues&custom_title=Contributions%20(2026))
 
 </div>
 
@@ -169,7 +169,5 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 <div align="center">
 
 ### ⭐ If you find my work interesting, feel free to star and follow!
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom" style="max-width: 100%;">
 
 </div>
