@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST**, graduating in 2028. I co-founded **SmartResQ**, an AI-powered emergency response platform, and lead a team of 16 interns at TGL Innovation Accelerator. I'm passionate about building practical solutions that solve real problems — whether that's autonomous emergency dispatch systems, market intelligence tools, or quantitative finance projects. My work spans full-stack development, systems architecture, and exploring the intersection of AI and finance through thoughtful code and rapid iteration.
+I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST**, graduating in 2028. I co-founded **SmartResQ**, an AI-powered emergency response platform, and lead a team of 15 interns at TGL Innovation Accelerator. I'm passionate about building practical solutions that solve real problems — whether that's autonomous emergency dispatch systems, market intelligence tools, or quantitative finance projects. My work spans full-stack development, systems architecture, and exploring the intersection of AI and finance through thoughtful code and rapid iteration.
 
 ---
 
