@@ -164,10 +164,9 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 
 <div align="center">
 
-## Contribution Graph Snake Animation
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TarunSitaraman/TarunSitaraman/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TarunSitaraman/TarunSitaraman/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TarunSitaraman/TarunSitaraman/output/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
