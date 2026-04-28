@@ -164,8 +164,10 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 
 <div align="center">
 
-### ⭐ If you find my work interesting, feel free to star and follow!
+## Contribution Graph Snake Animation
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="bottom" style="max-width: 100%;">
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TarunSitaraman/TarunSitaraman/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TarunSitaraman/TarunSitaraman/output/dist/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TarunSitaraman/TarunSitaraman/output/dist/github-snake.svg" />
+</picture>
