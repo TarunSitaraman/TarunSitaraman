@@ -148,19 +148,8 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunSitaraman&theme=dark&background=1a1a2e&ring=00a8e8&fire=00a8e8&currStreakNum=00a8e8&date_format=M%20d%5B%2C%20Y%5D)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunSitaraman&show_icons=true&theme=transparent&hide_border=true&title_color=185FA5&text_color=5F5E5A&icon_color=1D9E75" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSitaraman&layout=compact&theme=transparent&hide_border=true&title_color=185FA5&text_color=5F5E5A" height="150" />
-</p>
+
 </div>
-
----
-
-## 🎨 Philosophy
-
-> *"Build practical solutions for real problems. Thoughtful development, quick iteration, and tools that are genuinely useful — not just functional."*
-
----
 
 <div align="center">
 
