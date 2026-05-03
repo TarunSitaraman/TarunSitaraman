@@ -132,17 +132,6 @@ I'm a second-year B.Tech Computer Science (Cloud Computing) student at **SRMIST*
 
 ---
 
-## 💬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-sitaraman/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarun.sitaraman@outlook.com)
-
-</div>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
