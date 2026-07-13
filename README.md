@@ -59,12 +59,6 @@ Third-year CS student (Cloud Computing, SRMIST) focused on Agentic AI and system
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TarunSitaraman&theme=dark&background=1a1a2e&ring=00a8e8&fire=00a8e8&currStreakNum=00a8e8&date_format=M%20d%5B%2C%20Y%5D)
-
 </div>
 
 <div align="center">
